@@ -36,7 +36,7 @@ I created these animated graphs with JavaScript and D3 as a way to dynamically a
 
 ## Tools
 
-JavaScript, D3, Bootstrap, Jupyter Notebook, HTML5, CSS, Flask, Python, SQL, Facebook Prophet (machine learning)
+JavaScript, D3, Bootstrap, Jupyter Notebook, HTML5, CSS, Flask, Python, SQLite, SQLAlchemy, Facebook Prophet (machine learning)
 
 
 
@@ -44,8 +44,7 @@ JavaScript, D3, Bootstrap, Jupyter Notebook, HTML5, CSS, Flask, Python, SQL, Fac
 Sample data set from [Kaggle](https://www.kaggle.com/rohitsahoo/sales-forecasting).  Forecast modeling was completed with Facebook Prophet. 
 Results of the forecast models were saved as CSVs to the Resource folder and then brought into the heroku app.
 
-Data was cleaned in SQL, and then I further filtered and added calculations (suce as trend) in JavaScript.
-
+Data was cleaned in SQLite, which I further processed in JavaScript.
 
 
 
