@@ -4,7 +4,7 @@
 
 ## Description 
 
-A dashboard which includes sales forecast data, and an analysis of historical sales.. 
+A dashboard which includes sales data forecast by machine learning, and an analysis of historical sales. (This is a copy of the original repository to highlight my personal contributions to the project. The other contributors are listed at the bottom.)
 
 
 
@@ -28,27 +28,23 @@ This app is hosted on Heroku:
   
 ## Animated Graphs
 
-![Animated Graphs](static/images/animated_graph.png)
+I created these animated graphs with JavaScript and D3 as a way to dynamically and iteractively impart the data. The goal was to get the user engaged with the data, as I believe that facilitates understanding and retention while encouraging exploration. Mousing over any month on the main graph triggers the animation for the other graphs.
 
-Daily cases and deaths for entire pandemic. User can zoom in as well as see daily tallies by moving their cursor over the graph.  
-
-![Sample Graph](static/graph_sample.png)
-
-Shows the risk level, trend, and ICU capacity for the area presently. (I calculate trend by taking the total confirmed cases of the last seven days and comparing it the previous week.)
-
-![Sample Graphs](static/graphs_3.png)
+![Animated Graphs](SalesApp/static/images/animated_graph.png)
 
 
 
 ## Tools
 
-JavaScript, Plotly.js, D3, Bootstrap, HTML5, CSS, Flask, Python
+JavaScript, D3, Bootstrap, Jupyter Notebook, HTML5, CSS, Flask, Python, SQL, Facebook Prophet (machine learning)
 
 
 
 ## Data
-Original data set from [Kaggle](https://www.kaggle.com/rohitsahoo/sales-forecasting).  Forecast modeling was completed with Facebook Prophet. 
-Results of the forecast models were saved as CSVs to the Resource folder and then brought into the heroku app.  
+Sample data set from [Kaggle](https://www.kaggle.com/rohitsahoo/sales-forecasting).  Forecast modeling was completed with Facebook Prophet. 
+Results of the forecast models were saved as CSVs to the Resource folder and then brought into the heroku app.
+
+Data was cleaned in SQL, and then I further filtered and added calculations (suce as trend) in JavaScript.
 
 
 
