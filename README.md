@@ -28,6 +28,8 @@ This app is hosted on Heroku:
   
 ## Animated Graphs
 
+![Animated Graphs](static/images/animated_graph.png)
+
 Daily cases and deaths for entire pandemic. User can zoom in as well as see daily tallies by moving their cursor over the graph.  
 
 ![Sample Graph](static/graph_sample.png)
