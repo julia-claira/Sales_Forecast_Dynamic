@@ -4,7 +4,7 @@
 
 ## Description 
 
-A dashboard which includes sales data forecast by machine learning, and an analysis of historical sales. (This is a copy of the original repository to highlight my personal contributions to the project. The other contributors are listed at the bottom.)
+A dashboard which includes sales data forecast by machine learning, and an analysis of historical sales. (This is a copy of the original repository to highlight my personal contributions on the project. The other contributors are listed at the bottom.)
 
 
 
