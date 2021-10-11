@@ -1,8 +1,10 @@
-# Covid State and County Daily Numbers
+![Sample Graph](Resources/logo.png)
+
+# Sales Forecast - Animated Graphs
 
 ## Description 
 
-I developed this user-friendly app with a basic interface to make it easier to track daily numbers in one's area. Other sites require digging through pages of complex data and graphs, information that the average person doesn't care about. I've learned that to effectively reach people, what you leave is just as important as what you include.
+A dashboard which includes sales forecast data, and an analysis of historical sales.. 
 
 
 
@@ -11,15 +13,16 @@ I developed this user-friendly app with a basic interface to make it easier to t
 * [Tools](#Tools)
 * [Data](#Data)
 * [Graphs](#Graphs)
+* [Contributors](#Contributors)
 * [Contact](#Contact)
 
 
 
 ## Run
 
-The below link takes you to the app, running on Heroku:
+This app is hosted on Heroku:
 
-[Covid Daily Numbers app](https://covid-county.herokuapp.com/?fbclid=IwAR2fmy3hkjaIgXuhbl1QnknUD2_0nLjfaNe43LTqdZ1HGwLp1rvEMU4ewE4)
+[Sales Forecast App](https://instantoffice.herokuapp.com/)
 
 
   
