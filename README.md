@@ -4,7 +4,7 @@
 
 ## Description 
 
-A dashboard which includes sales data forecast by machine learning, and an analysis of historical sales. (This is a copy of the original repository to highlight my personal contributions on the project. The other contributors are listed at the bottom.)
+An animated interactive dashboard I built in D3 which that encourages data exploration.
 
 
 
@@ -13,7 +13,6 @@ A dashboard which includes sales data forecast by machine learning, and an analy
 * [Tools](#Tools)
 * [Data](#Data)
 * [Graphs](#Graphs)
-* [Contributors](#Contributors)
 * [Contact](#Contact)
 
 
@@ -45,15 +44,6 @@ Sample data set from [Kaggle](https://www.kaggle.com/rohitsahoo/sales-forecastin
 Results of the forecast models were saved as CSVs to the Resource folder and then brought into the heroku app.
 
 Data was cleaned in SQLite, which I further processed in JavaScript.
-
-
-
-## Contributors
-The contributors to this project are:
-* [@hamiltojogo](https://github.com/hamiltojogo)
-* [@KDrummerGirlLB](https://github.com/DrummerGirlLB)
-* [@Claira](https://github.com/julia-claira)
-* [@KristaJoy](https://github.com/KristaJoy)
 
 
 
